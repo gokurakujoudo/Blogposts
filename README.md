@@ -1,3 +1,7 @@
+## Hello World!
+[Link to me](Contact.md)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gokurakujoudo/Blogposts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
